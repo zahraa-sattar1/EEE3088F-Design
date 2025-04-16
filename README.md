@@ -1,4 +1,3 @@
-# EEE3088F-Design
 # EEE3088F 2025 - Power Subsystem Design
 
 This repository contains the design and development files for the Power Subsystem of the Micro-Mouse (MM) Project, as part of the EEE3088F 2025 Course at UCT.
@@ -30,6 +29,3 @@ The power subsystem must:
 - **PCB Size Constraint:** Maximum dimensions 82mm x 60mm.
 - **Shape Consideration:** The PCB must avoid interfering with motherboard drill holes.
 
----
-
-The success of this project relies on careful collaboration, efficient power management, and strict adherence to electrical and spatial constraints. Happy building!
