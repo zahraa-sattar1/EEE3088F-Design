@@ -1,4 +1,6 @@
 # EEE3088F 2025 - Power Subsystem Design
+## By Imtithaal Manuel (MNLIMT001) and STTZAH001(STTZAH001)
+### Group 37
 
 This repository contains the design and development files for the Power Subsystem of the Micro-Mouse (MM) Project, as part of the EEE3088F 2025 Course at UCT.
 
